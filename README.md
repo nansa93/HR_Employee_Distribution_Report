@@ -194,8 +194,11 @@ group by department;
 - During the searching process, records with negative ages were eliminated, totaling 967 records. The age range used was 18 years old and up.
 - A few termdates (1599 records) were excluded from the analysis because they were too far in the future. Dates that were less than or equal to the present date were the only terms that were used.
 
-<img width="798" height="517" alt="Hr Report 1" src="https://github.com/user-attachments/assets/810fe52d-be2b-422a-848b-a2af0a1edf41" />
 
-<img width="922" height="518" alt="Hr Report 2" src="https://github.com/user-attachments/assets/e6baef43-84c2-4b19-9355-6dbe10e5930e" />
+<img width="798" height="513" alt="Hr Report 1" src="https://github.com/user-attachments/assets/f4efa8e7-49ce-499e-abc2-b1e82917006f" />
 
-<img width="919" height="516" alt="Hr Report 3" src="https://github.com/user-attachments/assets/af6eaf16-5c45-41ed-a792-9b7eab5493be" />
+
+<img width="924" height="519" alt="Hr Report 2" src="https://github.com/user-attachments/assets/33ca86ae-44d8-4f33-a773-a2bd946c4e3a" />
+
+
+<img width="920" height="514" alt="Hr Report 3" src="https://github.com/user-attachments/assets/42676f95-9fae-451d-bfd6-7ded00cf2f72" />
