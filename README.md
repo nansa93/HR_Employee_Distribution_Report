@@ -1,4 +1,4 @@
-# HR-Employee-Distribution-Report
+# HR-Employee-Distribution-SQL-Report
 
 ## Introduction
 
